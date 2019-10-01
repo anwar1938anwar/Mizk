@@ -1,6 +1,6 @@
-﻿token= التوكن
-owner= الايدي مالتك
-prefix= البرفكس
-game= البلينق
-stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
-songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
+token= NjI4NTY4MTI0ODA3MTg0NDA0.XZNGDQ.LMXNjfo01XPOuLyaZk69waFsVGI
+owner= 533217684066664449
+prefix= /
+game=
+stayinchannel=true 
+songinstatus=true
